@@ -18,10 +18,6 @@ UUID_HUM_DATA = btle.UUID("f000aa21-0451-4000-b000-000000000000")
 UUID_LUX_CONF = btle.UUID("f000aa72-0451-4000-b000-000000000000")
 UUID_LUX_DATA = btle.UUID("f000aa71-0451-4000-b000-000000000000")
 
-# MPU9250 – Movement (hier nur Accelerometer)
-UUID_MOV_CONF = btle.UUID("f000aa82-0451-4000-b000-000000000000")
-UUID_MOV_DATA = btle.UUID("f000aa81-0451-4000-b000-000000000000")
-
 # ---------------------------------------------------------------------------
 # MQTT – Broker-Parameter
 # ---------------------------------------------------------------------------
