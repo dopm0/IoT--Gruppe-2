@@ -124,3 +124,7 @@ def main():
     finally:
         client.loop_stop()
         client.disconnect()
+
+# -----------------------------------------------------------------------------
+if __name__ == "__main__":
+    main()
